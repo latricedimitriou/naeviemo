@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diexoochu.xn--8-x97alb.com/sitemap.xml
